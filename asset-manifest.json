@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lala-friends-reactjs/static/css/main.b100e6da.chunk.css",
-    "main.js": "/lala-friends-reactjs/static/js/main.bc47e746.chunk.js",
-    "main.js.map": "/lala-friends-reactjs/static/js/main.bc47e746.chunk.js.map",
-    "runtime-main.js": "/lala-friends-reactjs/static/js/runtime-main.edeaccb3.js",
-    "runtime-main.js.map": "/lala-friends-reactjs/static/js/runtime-main.edeaccb3.js.map",
-    "static/js/2.aa9f9ec7.chunk.js": "/lala-friends-reactjs/static/js/2.aa9f9ec7.chunk.js",
-    "static/js/2.aa9f9ec7.chunk.js.map": "/lala-friends-reactjs/static/js/2.aa9f9ec7.chunk.js.map",
-    "index.html": "/lala-friends-reactjs/index.html",
-    "precache-manifest.9ffc6395ab2243eae8e126f152449b44.js": "/lala-friends-reactjs/precache-manifest.9ffc6395ab2243eae8e126f152449b44.js",
-    "service-worker.js": "/lala-friends-reactjs/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/lala-friends-reactjs/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/lala-friends-reactjs/static/media/logo.25bf045c.svg"
+    "main.css": "/lala-profile-reactjs/static/css/main.b100e6da.chunk.css",
+    "main.js": "/lala-profile-reactjs/static/js/main.e121ec41.chunk.js",
+    "main.js.map": "/lala-profile-reactjs/static/js/main.e121ec41.chunk.js.map",
+    "runtime-main.js": "/lala-profile-reactjs/static/js/runtime-main.944f5034.js",
+    "runtime-main.js.map": "/lala-profile-reactjs/static/js/runtime-main.944f5034.js.map",
+    "static/js/2.aa9f9ec7.chunk.js": "/lala-profile-reactjs/static/js/2.aa9f9ec7.chunk.js",
+    "static/js/2.aa9f9ec7.chunk.js.map": "/lala-profile-reactjs/static/js/2.aa9f9ec7.chunk.js.map",
+    "index.html": "/lala-profile-reactjs/index.html",
+    "precache-manifest.bc89724b3c3718859439d73f84458ef8.js": "/lala-profile-reactjs/precache-manifest.bc89724b3c3718859439d73f84458ef8.js",
+    "service-worker.js": "/lala-profile-reactjs/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/lala-profile-reactjs/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/lala-profile-reactjs/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.edeaccb3.js",
+    "static/js/runtime-main.944f5034.js",
     "static/js/2.aa9f9ec7.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.bc47e746.chunk.js"
+    "static/js/main.e121ec41.chunk.js"
   ]
 }
